@@ -5,8 +5,8 @@
     --cor-do-botao: #d14b59;
 }
 body{
-    background-color:var(--cor-de-fundo);
+    background-color: #000000;
 }
 h1{
-    color:var(--titulo-principal);
+    color:var(--titulo-principal)
 }   
